@@ -1,27 +1,80 @@
-![logo](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
-<h1 align="center">Hi 👋, I'm Faisal</h1>
-<h3 align="center">A passionate Software Developer !</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalcodewizard&label=Profile%20views&color=0e75b6&style=flat" alt="faisalcodewizard" /> </p>
+# Hi, I'm Faisal 👋
 
-- 💬 Ask me about **development**
+### Software Developer · Data Science Enthusiast · M.Tech Data Science @ JMI
 
-- 📫 How to reach me **faisalfarooqui077@gmail.com**
+I build software, explore data, and enjoy turning ideas into practical solutions.
 
-- ⚡ Fun fact **travel enthusiast**
+[![Profile Views](https://komarev.com/ghpvc/?username=faisalcodewizard&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/faisalcodewizard)
+[![GitHub followers](https://img.shields.io/github/followers/faisalcodewizard?label=Followers&style=flat)](https://github.com/faisalcodewizard?tab=followers)
 
-<h3 align="left">Connect with me:</h3>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Pursuing an **M.Tech in Data Science** at **Jamia Millia Islamia (JMI)**
+- 💻 Interested in **software development, data science, machine learning, and analytics**
+- 🌱 Currently strengthening my skills in **Python, SQL, machine learning, and full-stack development**
+- 💬 Ask me about **development, Python, data analysis, and machine learning**
+- ✈️ Fun fact: I am a **travel enthusiast**
+- 📫 Reach me at **[faisalfarooqui077@gmail.com](mailto:faisalfarooqui077@gmail.com)**
+
+## 🛠️ Languages and Tools
+
+### Software Development
+
 <p align="left">
-<a href="https://linkedin.com/in/Mohd Faisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohd Faisal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Mohd Faisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Mohd Faisal" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,django,bootstrap,git,github,mysql&perline=11" alt="Software development tools" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Data Science and Machine Learning
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faisalcodewizard&show_icons=true&locale=en&layout=compact" alt="faisalcodewizard" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,anaconda,jupyter,sklearn,tensorflow,pytorch,mysql&perline=7" alt="Data science and machine learning tools" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisalcodewizard&show_icons=true&locale=en" alt="faisalcodewizard" /></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalcodewizard&" alt="faisalcodewizard" /></p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=faisalcodewizard&show_icons=true&theme=tokyonight&hide_border=true" alt="Faisal's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalcodewizard&layout=compact&theme=tokyonight&hide_border=true" alt="Faisal's most used languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=faisalcodewizard&theme=tokyonight&hide_border=true" alt="Faisal's GitHub streak" />
+
+</div>
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="mailto:faisalfarooqui077@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+</div>
