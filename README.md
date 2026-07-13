@@ -19,7 +19,7 @@ I build software, explore data, and enjoy turning ideas into practical solutions
 - 💻 Interested in **software development, data science, machine learning, and analytics**
 - 🌱 Currently strengthening my skills in **Python, SQL, machine learning, and full-stack development**
 - 💬 Ask me about **development, Python, data analysis, and machine learning**
-- ✈️ Fun fact: I am a **travel enthusiast**
+- ✈️ Fun fact: Outside of coding, I love **traveling** and exploring **local cuisines**.
 - 📫 Reach me at **[faisalfarooqui077@gmail.com](mailto:faisalfarooqui077@gmail.com)**
 
 ## 🛠️ Languages and Tools
@@ -60,11 +60,11 @@ I build software, explore data, and enjoy turning ideas into practical solutions
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohd-faisal-830895288/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
+  <a href="https://www.hackerrank.com/profile/faisalfarooqui02" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
   <a href="mailto:faisalfarooqui077@gmail.com">
