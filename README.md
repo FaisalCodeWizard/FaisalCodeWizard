@@ -33,10 +33,11 @@ I build software, explore data, and enjoy turning ideas into practical solutions
 ### Data Science and Machine Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,anaconda,jupyter,sklearn,tensorflow,pytorch,mysql&perline=7" alt="Data science and machine learning tools" />
+  <img src="https://skillicons.dev/icons?i=python,anaconda,sklearn,tensorflow,pytorch,mysql&perline=6" alt="Python, Anaconda, scikit-learn, TensorFlow, PyTorch, and MySQL" />
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" alt="Matplotlib" />
@@ -48,12 +49,12 @@ I build software, explore data, and enjoy turning ideas into practical solutions
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=faisalcodewizard&show_icons=true&theme=tokyonight&hide_border=true" alt="Faisal's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalcodewizard&layout=compact&theme=tokyonight&hide_border=true" alt="Faisal's most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faisalcodewizard&theme=tokyonight" alt="Faisal's GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faisalcodewizard&theme=tokyonight" alt="Faisal's repositories by language" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=faisalcodewizard&theme=tokyonight&hide_border=true" alt="Faisal's GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=faisalcodewizard&theme=tokyonight&hide_border=true" alt="Faisal's GitHub contribution streak" />
 
 </div>
 
