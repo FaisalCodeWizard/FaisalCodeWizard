@@ -64,9 +64,11 @@ I build software, explore data, and enjoy turning ideas into practical solutions
   <a href="https://www.linkedin.com/in/mohd-faisal-830895288/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/faisalfarooqui02" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:faisalfarooqui077@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
